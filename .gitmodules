@@ -1,7 +1,9 @@
-[submodule "vendor/glfw"]
-	path = vendor/glfw
+
+[submodule "vendor/glfw/glfw-src"]
+	path = vendor/glfw/glfw-src
 	url = https://github.com/glfw/glfw.git
-[submodule "vendor/imgui"]
-	path = vendor/imgui
+
+[submodule "vendor/imgui/imgui-src"]
+	path = vendor/imgui/imgui-src
 	url = https://github.com/ocornut/imgui.git
 	branch = docking
