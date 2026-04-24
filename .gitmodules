@@ -2,8 +2,12 @@
 [submodule "vendor/glfw/glfw-src"]
 	path = vendor/glfw/glfw-src
 	url = https://github.com/glfw/glfw.git
+	branch = 3.3-stable
 
 [submodule "vendor/imgui/imgui-src"]
 	path = vendor/imgui/imgui-src
 	url = https://github.com/ocornut/imgui.git
 	branch = docking
+[submodule "vendor/spdlog/spdlog-src"]
+	path = vendor/spdlog/spdlog-src
+	url = https://github.com/gabime/spdlog.git
